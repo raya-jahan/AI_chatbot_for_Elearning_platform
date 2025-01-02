@@ -6,21 +6,21 @@ The AI Chatbot for E-Learning Platform is a web-based application that integrate
 
 Features
 
-Interactive Chat Interface: Allows users to type queries and receive AI-generated responses.
-AI-Powered Backend: Utilizes the Hugging Face Transformers library with pre-trained models like FLAN-T5 for natural language generation.
-Lightweight and Modular Design: Built using Flask for the backend and simple HTML/JavaScript for the frontend.
+Interactive Chat Interface: This application allows users to type queries and receive AI-generated responses.
+AI-Powered Backend: It utilizes the Hugging Face Transformers library with pre-trained models like FLAN-T5 for natural language generation.
+Lightweight and Modular Design: It is built using Flask for the backend and simple HTML/JavaScript for the frontend.
 Cross-Origin Compatibility: Integrated CORS to ensure smooth communication between frontend and backend.
 Customizable Responses: Easily switch or fine-tune the model for domain-specific tasks.
 
-Technologies Used
+Technologies Used:
 
-Python: Backend programming language
-Flask: Web framework for the backend
-Hugging Face Transformers: NLP library for generating responses
-HTML/JavaScript: Frontend for user interaction
+Python: Backend programming language,
+Flask: Web framework for the backend,
+Hugging Face Transformers: NLP library for generating responses,
+HTML/JavaScript: Frontend for user interaction,
 CORS: Middleware for cross-origin resource sharing
 
-Example Interaction
+Example Interaction:
 
 User Input:
 "What is machine learning?"
