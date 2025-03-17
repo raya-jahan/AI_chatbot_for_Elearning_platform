@@ -29,8 +29,7 @@ Chatbot Response:
 
 "Machine learning is a subset of AI that focuses on creating systems that learn and improve from experience without being explicitly programmed."
 
-Future Enhancements
-Deployment: Host the application on a platform like AWS, Heroku, or Render.
+Future Enhancements:
 Database Integration: Save chat history and responses for future reference.
 Multilingual Support: Enable the chatbot to handle queries in multiple languages.
 Voice Interaction: Integrate a speech-to-text and text-to-speech system for enhanced accessibility.
